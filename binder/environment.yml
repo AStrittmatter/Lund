@@ -1,3 +1,4 @@
+name: r-environment
 channels:
   - conda-forge
 dependencies:
